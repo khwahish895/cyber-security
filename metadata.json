@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI - Unidirectional IP Traffic Threat Detection",
+  "description": "AI-powered cybersecurity platform for passive unidirectional IP traffic analysis, threat classification, and real-time risk intelligence (SIH26145 / NTRO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
